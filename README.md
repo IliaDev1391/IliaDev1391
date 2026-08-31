@@ -29,7 +29,7 @@ Learning. Building. Improving. ⚡
 </p>
 ## Skills
 
-Languages and tools: HTML, Python, CSS, JavaScript.
+Languages and tools: HTML, Python, CSS, JavaScript, Django, GSAP, WebGL, Bootstrap.
 
 <p align="center">
   <picture>
@@ -47,7 +47,7 @@ Languages and tools: HTML, Python, CSS, JavaScript.
 </p>
 ## GitHub Stats
 
-5 repositories · 0 stars · 26 contributions.
+5 repositories · 0 stars · 29 contributions.
 
 <p align="center">
   <picture>
