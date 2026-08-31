@@ -1,66 +1,75 @@
-[# Ilia Pirmarzabad
+# ilia pirmarzabad
 
-> Building practical web applications, solving real problems, and growing every day.
+> Recruiter-friendly proof and contact path.
 
 ## Header
 
-Hi, I'm **Ilia Pirmarzabad** (@YOUR_GITHUB_USERNAME), a passionate junior web developer focused on building practical and meaningful web applications. This README showcases what I'm building, the technologies I'm learning, and the projects I'm proud of.
+Hi, I'm **ilia pirmarzabad** (@Liam9103). This README shares what I'm building, the tools I use, and the work I'm proud of.
+> Building the web with Python & Django 🚀
+Turning ideas into real-world products | Exploring AI 🤖
+Learning. Building. Improving. ⚡
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=YOUR_GITHUB_USERNAME&theme=neon&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=YOUR_GITHUB_USERNAME&theme=neon" alt="Ilia Pirmarzabad hero section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=Liam9103&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=Liam9103&theme=github-dark" alt="Liam9103 hero section" />
   </picture>
 </p>
-
 ## About Me
 
-A junior web developer with a strong interest in backend development, modern web technologies, and artificial intelligence.
+Building the web with Python & Django 🚀
+Turning ideas into real-world products | Exploring AI 🤖
+Learning. Building. Improving. ⚡
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=YOUR_GITHUB_USERNAME&theme=neon&mode=light" />
-    <img src="https://www.gitskins.com/api/section/about?username=YOUR_GITHUB_USERNAME&theme=neon" alt="Ilia Pirmarzabad about section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=Liam9103&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=Liam9103&theme=github-dark" alt="Liam9103 about section" />
   </picture>
 </p>
-
-## Projects
-
-Featured projects include Django web applications, interactive websites, and projects built to solve real-world problems.
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=YOUR_GITHUB_USERNAME&theme=neon&mode=light" />
-    <img src="https://www.gitskins.com/api/section/projects?username=YOUR_GITHUB_USERNAME&theme=neon" alt="Ilia Pirmarzabad projects section" />
-  </picture>
-</p>
-
-## Highlights
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=YOUR_GITHUB_USERNAME&theme=neon&mode=light" />
-    <img src="https://www.gitskins.com/api/section/highlights?username=YOUR_GITHUB_USERNAME&theme=neon" alt="Ilia Pirmarzabad highlights section" />
-  </picture>
-</p>
-
 ## Skills
 
-Languages and tools: Python, Django, HTML, CSS, JavaScript, SQL, Git, and GitHub.
+Languages and tools: HTML, Python, CSS, JavaScript.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=YOUR_GITHUB_USERNAME&theme=neon&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stack?username=YOUR_GITHUB_USERNAME&theme=neon" alt="Ilia Pirmarzabad stack section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=Liam9103&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=Liam9103&theme=github-dark" alt="Liam9103 stack section" />
   </picture>
 </p>
+## Heatmap
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=Liam9103&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/heatmap?username=Liam9103&theme=github-dark" alt="Liam9103 heatmap section" />
+  </picture>
+</p>
+## GitHub Stats
+
+5 repositories · 0 stars · 26 contributions.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=Liam9103&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=Liam9103&theme=github-dark" alt="Liam9103 stats section" />
+  </picture>
+</p>
+## Projects
+
+Featured repositories selected from the public GitHub profile.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=Liam9103&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=Liam9103&theme=github-dark" alt="Liam9103 projects section" />
+  </picture>
+</p>
 ## Connect
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=YOUR_GITHUB_USERNAME&theme=neon&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=YOUR_GITHUB_USERNAME&theme=neon" alt="Ilia Pirmarzabad social section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=Liam9103&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=Liam9103&theme=github-dark" alt="Liam9103 social section" />
   </picture>
 </p>
-](https://www.gitskins.com/readme-generator)
